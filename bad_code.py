@@ -1,3 +1,5 @@
+num1= input("Enter a number: ")
+num2 = input("Enter another number: ")
 def addition(num1, num2):
     #verifying input type
     if isinstance(num1, (int, float)) and isinstance(num2, (int, float)):
