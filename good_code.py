@@ -1,4 +1,5 @@
-#Sirin-Addition-Kiss
+def addition(num1, num2):
+    return num1 + num2
 
 #Avery-Subtraction-Documentation
 
