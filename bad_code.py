@@ -26,3 +26,12 @@ def m(a, b):
 #Yana-Multiplication-Dry
 
 #Bita-Divison-CleanCode
+
+#first input
+c = input("Enter a number: ")
+#second input
+d = input("Enter 2nd number: ")
+
+# Function to divide c and d as ints
+def divide():
+    return int(c) / int(d)

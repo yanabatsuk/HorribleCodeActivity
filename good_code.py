@@ -14,3 +14,6 @@ def subtraction(number1, number2):
 #Yana-Multiplication-Dry
 
 #Bita-Divison-CleanCode
+
+def division(number1, number2):
+    return number1/number2
