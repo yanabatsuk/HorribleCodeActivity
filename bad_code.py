@@ -23,7 +23,16 @@ def m(a, b):
     # Return a - b
     return a - b
 
-#Yana-Multiplication-Dry
+
+multi_num1 = input("Enter a number: ")
+multi_num2 = input("Enter another number: ")
+# function to multiply numbers
+def multiply():
+    product = 0
+    product = multi_num1 * multi_num2
+    return product
+
+
 
 #Bita-Divison-CleanCode
 
