@@ -24,6 +24,7 @@ def m(a, b):
     return a - b
 
 
+
 multi_num1 = input("Enter a number: ")
 multi_num2 = input("Enter another number: ")
 # function to multiply numbers
@@ -34,7 +35,7 @@ def multiply():
 
 
 
-#Bita-Divison-CleanCode
+
 
 #first input
 c = input("Enter a number: ")

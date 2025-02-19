@@ -10,11 +10,15 @@ def addition(number1, number2):
 def subtraction(number1, number2):
     return number1 - number2
 
+
+
+
 # a function to return the product of the users 2 numbers
 def multiplication(number1, number2):
     return number1 * number2
 
-#Bita-Divison-CleanCode
 
+
+# a function that returns the quotient of number1 and number2 that were chosen by the user.
 def division(number1, number2):
     return number1/number2
