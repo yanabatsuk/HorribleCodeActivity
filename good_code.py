@@ -10,8 +10,9 @@ def addition(number1, number2):
 def subtraction(number1, number2):
     return number1 - number2
 
-
-#Yana-Multiplication-Dry
+# a function to return the product of the users 2 numbers
+def multiplication(number1, number2):
+    return number1 * number2
 
 #Bita-Divison-CleanCode
 
