@@ -23,9 +23,7 @@ def m(a, b):
     # Return a - b
     return a - b
 
-#Yana-Multiplication-Dry
 
-#Bita-Divison-CleanCode
 
 #first input
 c = input("Enter a number: ")

@@ -11,9 +11,8 @@ def subtraction(number1, number2):
     return number1 - number2
 
 
-#Yana-Multiplication-Dry
 
-#Bita-Divison-CleanCode
 
+# a function that returns the quotient of number1 and number2 that were chosen by the user.
 def division(number1, number2):
     return number1/number2
